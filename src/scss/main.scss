@@ -1,0 +1,10 @@
+@use './var.scss';
+@import url('./fonst');
+
+* {
+	font-family: 'Roboto';
+	font-size: 18px;
+	line-height: 1.5;
+	color: var.$gray;
+	background: var.$black;
+}

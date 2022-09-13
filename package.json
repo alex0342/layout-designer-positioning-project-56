@@ -1,0 +1,25 @@
+{
+	"name": "layout-designer-positioning-project-56",
+	"version": "1.0.0",
+	"description": "[![Actions Status](https://github.com/alex0342/layout-designer-positioning-project-56/workflows/hexlet-check/badge.svg)](https://github.com/alex0342/layout-designer-positioning-project-56/actions)",
+	"main": "index.js",
+	"scripts": {
+		"dev": "parcel ./src/*.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alex0342/layout-designer-positioning-project-56.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alex0342/layout-designer-positioning-project-56/issues"
+	},
+	"homepage": "https://github.com/alex0342/layout-designer-positioning-project-56#readme",
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.7.0",
+		"parcel": "^2.7.0",
+		"sass": "^1.54.9",
+		"sass-loader": "^12.6.0"
+	}
+}
