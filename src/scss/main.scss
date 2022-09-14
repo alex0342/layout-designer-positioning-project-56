@@ -2,9 +2,14 @@
 @import url('./fonst');
 
 * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
 	font-family: 'Roboto';
 	font-size: 18px;
 	line-height: 1.5;
 	color: var.$gray;
-	background: var.$black;
+	background-color: var.$black;
 }
